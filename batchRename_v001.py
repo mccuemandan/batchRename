@@ -1,7 +1,5 @@
 import maya.cmds as cmds
 
-print "michelle"
-
 # define naming and parameters
 prefix = "prefix_"
 suffix = "_suffix"
